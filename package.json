@@ -36,7 +36,7 @@
         "npm-check-updates": "^16.14.14",
         "p-queue": "^6.6.2",
         "prettier": "2.8.8",
-        "syncpack": "~10.9.3",
+        "syncpack": "~13.0.3",
         "typescript": "~5.2",
         "word-wrap": "1.2.5",
         "yargs": "^16.2.0"
